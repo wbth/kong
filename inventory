@@ -1,0 +1,2 @@
+[kongservers]
+server1 git_repo="git clone https://github.com/Kong/docker-kong"
